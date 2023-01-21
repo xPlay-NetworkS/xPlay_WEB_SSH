@@ -1073,7 +1073,7 @@ echo "America/Sao_Paulo" > /etc/timezone &>/dev/null
 ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime &>/dev/null
 dpkg-reconfigure --frontend noninteractive tzdata &>/dev/null
 clear
-echo -e "\033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━VERSÃO:008━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
+echo -e "\033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━VERSÃO:009━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
 figlet "XPLAY WEB" | lolcat
 echo -e "\033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
 echo -e "\033[1;37m┃\033[38;5;82mSISTEMA              \033[1;37m| \033[38;5;82mMEMÓRIA RAM          \033[1;37m| \033[38;5;82mPROCESSADOR     \033[1;37m┃"
