@@ -29,7 +29,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-webv2/raw
 ```
 
 
-# 𓊈𒆜 ATUALIZAÇÕES: (05/01/2023) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (21/01/2023) 𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
