@@ -1075,7 +1075,7 @@ dpkg-reconfigure --frontend noninteractive tzdata &>/dev/null
 clear
 
 figlet "XPLAY WEB" | lolcat
-echo -e "\033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━VERSÃO:013━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
+echo -e "\033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━VERSÃO:013━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[0m"
 echo -e "\033[1;37m┃\033[38;5;82mSISTEMA              \033[1;37m| \033[38;5;82mMEMÓRIA RAM          \033[1;37m| \033[38;5;82mPROCESSADOR     \033[1;37m┃"
 echo -e "┃\033[38;5;196mOS: \033[1;37m$_system   | \033[38;5;196mTOTAL:\033[1;37m$_ram     | \033[38;5;196mNUCLEO: \033[1;37m$_core\033[0m   \033[1;37m┃"
 echo -e "┃\033[38;5;196mHORÁRIO: \033[1;37m$_hora    | \033[38;5;196mEM USO: \033[1;37m$_usor     | \033[38;5;196mEM USO: \033[1;37m$_usop\033[0m   \033[1;37m┃"
