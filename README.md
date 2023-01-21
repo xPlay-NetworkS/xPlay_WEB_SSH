@@ -20,7 +20,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/xPlay-NetworkS/xPlay_WE
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-pulsenet
+@AndradeS_xPlay
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
